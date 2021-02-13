@@ -1,11 +1,13 @@
-Hitungan
+Hitungan ( *ProCalc* )
 
+​	
 
 Sample of 1 million big numbers multiplication
 
 In order to execute the application, .NET Frameworks 4.0 and Visual C++ 2010 Runtime must be previously installed. Once they are already deployed, copy the application to a folder and send a shortcut to the Windows Desktop.
 
-Usage
+*Usage*
+
 To calculate numbers, enter the first number, then an operator (+, or -, or *, or /, or ), then the second number, and finally enter the "=". The result will be displayed adjacent to the ProCalc buttons including time of execution. If the numbers are more than two, enter an operator after each number after the second number, and enter the "=" to see the result.
 
 To clear the display, click the C button.
@@ -20,6 +22,7 @@ The result can be copied and pasted through the Edit menu, and can be saved thro
 
 For demo purpose, the application provides calculation between two 1-million numbers through the Big Numbers Demo menu.
 
-Notes
+*Notes*
+
 The factorial calculation is limited to 1500, meanwhile entering a big iteration number for finding a prime number can consume a huge amount of time of execution.
 
