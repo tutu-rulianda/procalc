@@ -1,4 +1,4 @@
-**Hitungan ( ProCalc )**
+*Hitungan ( ProCalc )*
 
 ![image-2021021382905994 PM](https://github.com/tutu-rulianda/procalc/blob/main/wikis/5bb047fe-b096-46ce-833e-3b5a7565daa9.png)
 
