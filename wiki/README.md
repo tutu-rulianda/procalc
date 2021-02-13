@@ -1,8 +1,3 @@
-<<<<<<< HEAD:wiki/README.md
-Hitungan ( *ProCalc* )
-
-​	
-=======
 # **Welcome to Hitungan**
 
 Hitungan a.k.a **ProCalc** is a basic calculator for handling big numbers such as multiplication, division, addition, subtraction. The application also has other features namely modulus, square root, nth-root, nth-power, factorial, and prime number finder. Furthermore, the result can be copied, pasted, saved to an RTF file on your working document folder.
@@ -20,17 +15,12 @@ Hitungan depends on the following requirements:
 # **Hitungan ( ProCalc )**
 
 ![image-2021021382905994 PM](https://github.com/tutu-rulianda/procalc/blob/main/wikis/5bb047fe-b096-46ce-833e-3b5a7565daa9.png)
->>>>>>> 9a78812e5d0a49fb8de9cce053b9d93ed5b7a119:wikis/README.md
 
 Sample of 1 million big numbers multiplication
 
 In order to execute the application, .NET Frameworks 4.0 and Visual C++ 2010 Runtime must be previously installed. Once they are already deployed, copy the application to a folder and send a shortcut to the Windows Desktop.
 
-<<<<<<< HEAD:wiki/README.md
-*Usage*
-=======
 Usage
->>>>>>> 9a78812e5d0a49fb8de9cce053b9d93ed5b7a119:wikis/README.md
 
 To calculate numbers, enter the first number, then an operator (+, or -, or *, or /, or ), then the second number, and finally enter the "=". The result will be displayed adjacent to the ProCalc buttons including time of execution. If the numbers are more than two, enter an operator after each number after the second number, and enter the "=" to see the result.
 
@@ -46,11 +36,6 @@ The result can be copied and pasted through the Edit menu, and can be saved thro
 
 For demo purpose, the application provides calculation between two 1-million numbers through the Big Numbers Demo menu.
 
-<<<<<<< HEAD:wiki/README.md
-*Notes*
-=======
 Notes
->>>>>>> 9a78812e5d0a49fb8de9cce053b9d93ed5b7a119:wikis/README.md
 
 The factorial calculation is limited to 1500, meanwhile entering a big iteration number for finding a prime number can consume a huge amount of time of execution.
-
