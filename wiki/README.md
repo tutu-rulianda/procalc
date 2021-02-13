@@ -9,7 +9,7 @@ Hitungan depends on the following requirements:
 
 **WebCalc** is a web version of Hitungan and it has only basic operations and needs **Silverlight** to be installed on the client side.
 
-![image-2021021382905994 PM](https://github.com/tutu-rulianda/procalc/blob/main/wikis/9aabdf7b-45e1-4dc4-9157-577122d263e3.png)
+![image-2021021382905994 PM](https://github.com/tutu-rulianda/procalc/blob/main/wiki/9aabdf7b-45e1-4dc4-9157-577122d263e3.png)
 
 
 # **Hitungan ( ProCalc )**
