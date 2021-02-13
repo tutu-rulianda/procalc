@@ -1,4 +1,18 @@
-**<h1>Hitungan ( ProCalc )</h1>**
+# **Welcome to Hitungan**
+
+Hitungan a.k.a **ProCalc** is a basic calculator for handling big numbers such as multiplication, division, addition, subtraction. The application also has other features namely modulus, square root, nth-root, nth-power, factorial, and prime number finder. Furthermore, the result can be copied, pasted, saved to an RTF file on your working document folder.
+
+Hitungan depends on the following requirements:
+
+- .NET Framework 4.0
+- Visual C++ 2010 Runtime
+
+**WebCalc** is a web version of Hitungan and it has only basic operations and needs **Silverlight** to be installed on the client side.
+
+![image-2021021382905994 PM](https://github.com/tutu-rulianda/procalc/blob/main/wikis/5bb047fe-b096-46ce-833e-3b5a7565daa9.png)
+
+
+# **Hitungan ( ProCalc )**
 
 ![image-2021021382905994 PM](https://github.com/tutu-rulianda/procalc/blob/main/wikis/5bb047fe-b096-46ce-833e-3b5a7565daa9.png)
 
