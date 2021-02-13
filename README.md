@@ -7,3 +7,5 @@ Hitungan depends on the following requirements:
 
 - .NET Framework 4.0
 - Visual C++ 2010 Runtime
+
+![image-2021021374651616PM](https://github.com/tutu-rulianda/procalc/blob/main/image-2021021374150491PM.png)
